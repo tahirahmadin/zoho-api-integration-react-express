@@ -1,0 +1,18 @@
+{
+  "name": "zohoapi",
+  "version": "1.0.0",
+  "description": "Calling an end point api and integrating response with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tahir Ahmad",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cors": "^2.8.5",
+    "create-react-app": "^3.0.0",
+    "express": "^4.16.4"
+  }
+}
